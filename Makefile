@@ -7,4 +7,5 @@ clean:
 
 compile:
 	@mkdir -p $(BUILD)
-	@echo merged > $(BUILD)/deck.md
+	@echo merged-slides > $(BUILD)/deck.md
+
